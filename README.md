@@ -1,6 +1,3 @@
 # Easy-Venv
-Scripts to manage python virtual environments on Windows systems
-
-This repo is intended to serve as a backup, not necessarily a ready-to-distribute project
-
-Change the constant variables "EnvPath" in each script to the path where you store your virtual environments
+## Concept
+Easy-Venv is a pair of Powershell and CMD scripts to centralize the organization of python virtual environments. This allows for virtual environments to be accessed anywhere, and reused between multiple projects. This saves space on disk for commonly-used virtual environments.
