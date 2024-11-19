@@ -78,7 +78,7 @@ function ezvenv {
         }
 
         if ($GetPath) {
-            echo "EnvPath : %EnvPath%"
+            echo "EnvPath : $EnvPath"
         }
 
         if ($ListPackages) {
